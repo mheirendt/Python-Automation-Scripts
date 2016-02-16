@@ -1,5 +1,5 @@
 # Python-Automation-Scripts
-Scripts written in Python with the Arcpy module to automate repetitive mapping tasks is ArcGIS.
+Scripts written in Python with the Arcpy module to automate repetitive mapping tasks in ArcGIS.
 
 
 <b>Create Map Service</b>
